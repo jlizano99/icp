@@ -1,0 +1,5 @@
+[icpcluster]
+192.168.55.60 ansible_user=root
+192.168.55.61 ansible_user=root
+192.168.55.62 ansible_user=root
+192.168.55.63 ansible_user=root

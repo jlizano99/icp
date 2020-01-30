@@ -1,0 +1,4 @@
+192.168.55.60	master.srv	master
+192.168.55.61	worker1.srv	worker1
+192.168.55.62	worker2.srv	worker2
+192.168.55.63	worker3.srv	worker3

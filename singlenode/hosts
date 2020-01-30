@@ -1,0 +1,2 @@
+[icpcluster]
+192.168.55.56 ansible_user=root

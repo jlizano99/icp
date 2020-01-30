@@ -1,0 +1,4 @@
+master_node: 192.168.55.56
+master_node_pass: Password01
+
+path_icp: /home/jlizano/Documents/ibm-cloud-private-3.2.1/
